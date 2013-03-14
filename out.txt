@@ -1,0 +1,2203 @@
+Pocet zpracovanych byl vetsi nez pocet uzlu.
+Node id: 0, dst: 0, state: 2
+Children: 11 12 13 14 15 16 17 18 19 20 21 
+Parents: 
+
+Node id: 1, dst: 2147483000, state: 0
+Children: 11 12 13 14 15 16 17 18 19 20 21 
+Parents: 
+
+Node id: 2, dst: 2147483000, state: 0
+Children: 11 12 13 14 15 16 17 18 19 20 21 
+Parents: 
+
+Node id: 3, dst: 2147483000, state: 0
+Children: 11 12 13 14 15 16 17 18 19 20 21 
+Parents: 
+
+Node id: 4, dst: 2147483000, state: 0
+Children: 11 12 13 14 15 16 17 18 19 20 21 
+Parents: 
+
+Node id: 5, dst: 2147483000, state: 0
+Children: 11 12 13 14 15 16 17 18 19 20 21 
+Parents: 
+
+Node id: 6, dst: 2147483000, state: 0
+Children: 11 12 13 14 15 16 17 18 19 20 21 
+Parents: 
+
+Node id: 7, dst: 2147483000, state: 0
+Children: 11 12 13 14 15 16 17 18 19 20 21 
+Parents: 
+
+Node id: 8, dst: 2147483000, state: 0
+Children: 11 12 13 14 15 16 17 18 19 20 21 
+Parents: 
+
+Node id: 9, dst: 2147483000, state: 0
+Children: 11 12 13 14 15 16 17 18 19 20 21 
+Parents: 
+
+Node id: 10, dst: 2147483000, state: 0
+Children: 11 12 13 14 15 16 17 18 19 20 21 
+Parents: 
+
+Node id: 11, dst: 1, state: 2
+Children: 22 23 24 25 26 27 28 29 30 31 32 
+Parents: 0 
+
+Node id: 12, dst: 1, state: 2
+Children: 22 23 24 25 26 27 28 29 30 31 32 
+Parents: 0 
+
+Node id: 13, dst: 1, state: 2
+Children: 22 23 24 25 26 27 28 29 30 31 32 
+Parents: 0 
+
+Node id: 14, dst: 1, state: 2
+Children: 22 23 24 25 26 27 28 29 30 31 32 
+Parents: 0 
+
+Node id: 15, dst: 1, state: 2
+Children: 22 23 24 25 26 27 28 29 30 31 32 
+Parents: 0 
+
+Node id: 16, dst: 1, state: 2
+Children: 22 23 24 25 26 27 28 29 30 31 32 
+Parents: 0 
+
+Node id: 17, dst: 1, state: 2
+Children: 22 23 24 25 26 27 28 29 30 31 32 
+Parents: 0 
+
+Node id: 18, dst: 1, state: 2
+Children: 22 23 24 25 26 27 28 29 30 31 32 
+Parents: 0 
+
+Node id: 19, dst: 1, state: 2
+Children: 22 23 24 25 26 27 28 29 30 31 32 
+Parents: 0 
+
+Node id: 20, dst: 1, state: 2
+Children: 22 23 24 25 26 27 28 29 30 31 32 
+Parents: 0 
+
+Node id: 21, dst: 1, state: 2
+Children: 22 23 24 25 26 27 28 29 30 31 32 
+Parents: 0 
+
+Node id: 22, dst: 2, state: 2
+Children: 33 34 35 36 37 38 39 40 41 42 43 
+Parents: 11 12 13 14 15 16 17 18 19 20 21 
+
+Node id: 23, dst: 2, state: 2
+Children: 33 34 35 36 37 38 39 40 41 42 43 
+Parents: 11 12 13 14 15 16 17 18 19 20 21 
+
+Node id: 24, dst: 2, state: 2
+Children: 33 34 35 36 37 38 39 40 41 42 43 
+Parents: 11 12 13 14 15 16 17 18 19 20 21 
+
+Node id: 25, dst: 2, state: 2
+Children: 33 34 35 36 37 38 39 40 41 42 43 
+Parents: 11 12 13 14 15 16 17 18 19 20 21 
+
+Node id: 26, dst: 2, state: 2
+Children: 33 34 35 36 37 38 39 40 41 42 43 
+Parents: 11 12 13 14 15 16 17 18 19 20 21 
+
+Node id: 27, dst: 2, state: 2
+Children: 33 34 35 36 37 38 39 40 41 42 43 
+Parents: 11 12 13 14 15 16 17 18 19 20 21 
+
+Node id: 28, dst: 2, state: 2
+Children: 33 34 35 36 37 38 39 40 41 42 43 
+Parents: 11 12 13 14 15 16 17 18 19 20 21 
+
+Node id: 29, dst: 2, state: 2
+Children: 33 34 35 36 37 38 39 40 41 42 43 
+Parents: 11 12 13 14 15 16 17 18 19 20 21 
+
+Node id: 30, dst: 2, state: 2
+Children: 33 34 35 36 37 38 39 40 41 42 43 
+Parents: 11 12 13 14 15 16 17 18 19 20 21 
+
+Node id: 31, dst: 2, state: 2
+Children: 33 34 35 36 37 38 39 40 41 42 43 
+Parents: 11 12 13 14 15 16 17 18 19 20 21 
+
+Node id: 32, dst: 2, state: 2
+Children: 33 34 35 36 37 38 39 40 41 42 43 
+Parents: 11 12 13 14 15 16 17 18 19 20 21 
+
+Node id: 33, dst: 3, state: 2
+Children: 44 45 46 47 48 49 50 51 52 53 54 
+Parents: 22 23 24 25 26 27 28 29 30 31 32 
+
+Node id: 34, dst: 3, state: 2
+Children: 44 45 46 47 48 49 50 51 52 53 54 
+Parents: 22 23 24 25 26 27 28 29 30 31 32 
+
+Node id: 35, dst: 3, state: 2
+Children: 44 45 46 47 48 49 50 51 52 53 54 
+Parents: 22 23 24 25 26 27 28 29 30 31 32 
+
+Node id: 36, dst: 3, state: 2
+Children: 44 45 46 47 48 49 50 51 52 53 54 
+Parents: 22 23 24 25 26 27 28 29 30 31 32 
+
+Node id: 37, dst: 3, state: 2
+Children: 44 45 46 47 48 49 50 51 52 53 54 
+Parents: 22 23 24 25 26 27 28 29 30 31 32 
+
+Node id: 38, dst: 3, state: 2
+Children: 44 45 46 47 48 49 50 51 52 53 54 
+Parents: 22 23 24 25 26 27 28 29 30 31 32 
+
+Node id: 39, dst: 3, state: 2
+Children: 44 45 46 47 48 49 50 51 52 53 54 
+Parents: 22 23 24 25 26 27 28 29 30 31 32 
+
+Node id: 40, dst: 3, state: 2
+Children: 44 45 46 47 48 49 50 51 52 53 54 
+Parents: 22 23 24 25 26 27 28 29 30 31 32 
+
+Node id: 41, dst: 3, state: 2
+Children: 44 45 46 47 48 49 50 51 52 53 54 
+Parents: 22 23 24 25 26 27 28 29 30 31 32 
+
+Node id: 42, dst: 3, state: 2
+Children: 44 45 46 47 48 49 50 51 52 53 54 
+Parents: 22 23 24 25 26 27 28 29 30 31 32 
+
+Node id: 43, dst: 3, state: 2
+Children: 44 45 46 47 48 49 50 51 52 53 54 
+Parents: 22 23 24 25 26 27 28 29 30 31 32 
+
+Node id: 44, dst: 4, state: 1
+Children: 55 56 57 58 59 60 61 62 63 64 65 
+Parents: 33 34 35 36 37 38 39 40 41 42 43 
+
+Node id: 45, dst: 4, state: 1
+Children: 55 56 57 58 59 60 61 62 63 64 65 
+Parents: 33 34 35 36 37 38 39 40 41 42 43 
+
+Node id: 46, dst: 4, state: 1
+Children: 55 56 57 58 59 60 61 62 63 64 65 
+Parents: 33 34 35 36 37 38 39 40 41 42 43 
+
+Node id: 47, dst: 4, state: 1
+Children: 55 56 57 58 59 60 61 62 63 64 65 
+Parents: 33 34 35 36 37 38 39 40 41 42 43 
+
+Node id: 48, dst: 4, state: 1
+Children: 55 56 57 58 59 60 61 62 63 64 65 
+Parents: 33 34 35 36 37 38 39 40 41 42 43 
+
+Node id: 49, dst: 4, state: 1
+Children: 55 56 57 58 59 60 61 62 63 64 65 
+Parents: 33 34 35 36 37 38 39 40 41 42 43 
+
+Node id: 50, dst: 4, state: 1
+Children: 55 56 57 58 59 60 61 62 63 64 65 
+Parents: 33 34 35 36 37 38 39 40 41 42 43 
+
+Node id: 51, dst: 4, state: 1
+Children: 55 56 57 58 59 60 61 62 63 64 65 
+Parents: 33 34 35 36 37 38 39 40 41 42 43 
+
+Node id: 52, dst: 4, state: 1
+Children: 55 56 57 58 59 60 61 62 63 64 65 
+Parents: 33 34 35 36 37 38 39 40 41 42 43 
+
+Node id: 53, dst: 4, state: 1
+Children: 55 56 57 58 59 60 61 62 63 64 65 
+Parents: 33 34 35 36 37 38 39 40 41 42 43 
+
+Node id: 54, dst: 4, state: 1
+Children: 55 56 57 58 59 60 61 62 63 64 65 
+Parents: 33 34 35 36 37 38 39 40 41 42 43 
+
+Node id: 55, dst: 2147483000, state: 0
+Children: 66 67 68 69 70 71 72 73 74 75 76 
+Parents: 
+
+Node id: 56, dst: 2147483000, state: 0
+Children: 66 67 68 69 70 71 72 73 74 75 76 
+Parents: 
+
+Node id: 57, dst: 2147483000, state: 0
+Children: 66 67 68 69 70 71 72 73 74 75 76 
+Parents: 
+
+Node id: 58, dst: 2147483000, state: 0
+Children: 66 67 68 69 70 71 72 73 74 75 76 
+Parents: 
+
+Node id: 59, dst: 2147483000, state: 0
+Children: 66 67 68 69 70 71 72 73 74 75 76 
+Parents: 
+
+Node id: 60, dst: 2147483000, state: 0
+Children: 66 67 68 69 70 71 72 73 74 75 76 
+Parents: 
+
+Node id: 61, dst: 2147483000, state: 0
+Children: 66 67 68 69 70 71 72 73 74 75 76 
+Parents: 
+
+Node id: 62, dst: 2147483000, state: 0
+Children: 66 67 68 69 70 71 72 73 74 75 76 
+Parents: 
+
+Node id: 63, dst: 2147483000, state: 0
+Children: 66 67 68 69 70 71 72 73 74 75 76 
+Parents: 
+
+Node id: 64, dst: 2147483000, state: 0
+Children: 66 67 68 69 70 71 72 73 74 75 76 
+Parents: 
+
+Node id: 65, dst: 2147483000, state: 0
+Children: 66 67 68 69 70 71 72 73 74 75 76 
+Parents: 
+
+Node id: 66, dst: 2147483000, state: 0
+Children: 77 78 79 80 81 82 83 84 85 86 87 
+Parents: 
+
+Node id: 67, dst: 2147483000, state: 0
+Children: 77 78 79 80 81 82 83 84 85 86 87 
+Parents: 
+
+Node id: 68, dst: 2147483000, state: 0
+Children: 77 78 79 80 81 82 83 84 85 86 87 
+Parents: 
+
+Node id: 69, dst: 2147483000, state: 0
+Children: 77 78 79 80 81 82 83 84 85 86 87 
+Parents: 
+
+Node id: 70, dst: 2147483000, state: 0
+Children: 77 78 79 80 81 82 83 84 85 86 87 
+Parents: 
+
+Node id: 71, dst: 2147483000, state: 0
+Children: 77 78 79 80 81 82 83 84 85 86 87 
+Parents: 
+
+Node id: 72, dst: 2147483000, state: 0
+Children: 77 78 79 80 81 82 83 84 85 86 87 
+Parents: 
+
+Node id: 73, dst: 2147483000, state: 0
+Children: 77 78 79 80 81 82 83 84 85 86 87 
+Parents: 
+
+Node id: 74, dst: 2147483000, state: 0
+Children: 77 78 79 80 81 82 83 84 85 86 87 
+Parents: 
+
+Node id: 75, dst: 2147483000, state: 0
+Children: 77 78 79 80 81 82 83 84 85 86 87 
+Parents: 
+
+Node id: 76, dst: 2147483000, state: 0
+Children: 77 78 79 80 81 82 83 84 85 86 87 
+Parents: 
+
+Node id: 77, dst: 2147483000, state: 0
+Children: 88 89 90 91 92 93 94 95 96 97 98 
+Parents: 
+
+Node id: 78, dst: 2147483000, state: 0
+Children: 88 89 90 91 92 93 94 95 96 97 98 
+Parents: 
+
+Node id: 79, dst: 2147483000, state: 0
+Children: 88 89 90 91 92 93 94 95 96 97 98 
+Parents: 
+
+Node id: 80, dst: 2147483000, state: 0
+Children: 88 89 90 91 92 93 94 95 96 97 98 
+Parents: 
+
+Node id: 81, dst: 2147483000, state: 0
+Children: 88 89 90 91 92 93 94 95 96 97 98 
+Parents: 
+
+Node id: 82, dst: 2147483000, state: 0
+Children: 88 89 90 91 92 93 94 95 96 97 98 
+Parents: 
+
+Node id: 83, dst: 2147483000, state: 0
+Children: 88 89 90 91 92 93 94 95 96 97 98 
+Parents: 
+
+Node id: 84, dst: 2147483000, state: 0
+Children: 88 89 90 91 92 93 94 95 96 97 98 
+Parents: 
+
+Node id: 85, dst: 2147483000, state: 0
+Children: 88 89 90 91 92 93 94 95 96 97 98 
+Parents: 
+
+Node id: 86, dst: 2147483000, state: 0
+Children: 88 89 90 91 92 93 94 95 96 97 98 
+Parents: 
+
+Node id: 87, dst: 2147483000, state: 0
+Children: 88 89 90 91 92 93 94 95 96 97 98 
+Parents: 
+
+Node id: 88, dst: 2147483000, state: 0
+Children: 99 100 101 102 103 104 105 106 107 108 109 
+Parents: 
+
+Node id: 89, dst: 2147483000, state: 0
+Children: 99 100 101 102 103 104 105 106 107 108 109 
+Parents: 
+
+Node id: 90, dst: 2147483000, state: 0
+Children: 99 100 101 102 103 104 105 106 107 108 109 
+Parents: 
+
+Node id: 91, dst: 2147483000, state: 0
+Children: 99 100 101 102 103 104 105 106 107 108 109 
+Parents: 
+
+Node id: 92, dst: 2147483000, state: 0
+Children: 99 100 101 102 103 104 105 106 107 108 109 
+Parents: 
+
+Node id: 93, dst: 2147483000, state: 0
+Children: 99 100 101 102 103 104 105 106 107 108 109 
+Parents: 
+
+Node id: 94, dst: 2147483000, state: 0
+Children: 99 100 101 102 103 104 105 106 107 108 109 
+Parents: 
+
+Node id: 95, dst: 2147483000, state: 0
+Children: 99 100 101 102 103 104 105 106 107 108 109 
+Parents: 
+
+Node id: 96, dst: 2147483000, state: 0
+Children: 99 100 101 102 103 104 105 106 107 108 109 
+Parents: 
+
+Node id: 97, dst: 2147483000, state: 0
+Children: 99 100 101 102 103 104 105 106 107 108 109 
+Parents: 
+
+Node id: 98, dst: 2147483000, state: 0
+Children: 99 100 101 102 103 104 105 106 107 108 109 
+Parents: 
+
+Node id: 99, dst: 2147483000, state: 0
+Children: 110 111 112 113 114 115 116 117 118 119 120 
+Parents: 
+
+Node id: 100, dst: 2147483000, state: 0
+Children: 110 111 112 113 114 115 116 117 118 119 120 
+Parents: 
+
+Node id: 101, dst: 2147483000, state: 0
+Children: 110 111 112 113 114 115 116 117 118 119 120 
+Parents: 
+
+Node id: 102, dst: 2147483000, state: 0
+Children: 110 111 112 113 114 115 116 117 118 119 120 
+Parents: 
+
+Node id: 103, dst: 2147483000, state: 0
+Children: 110 111 112 113 114 115 116 117 118 119 120 
+Parents: 
+
+Node id: 104, dst: 2147483000, state: 0
+Children: 110 111 112 113 114 115 116 117 118 119 120 
+Parents: 
+
+Node id: 105, dst: 2147483000, state: 0
+Children: 110 111 112 113 114 115 116 117 118 119 120 
+Parents: 
+
+Node id: 106, dst: 2147483000, state: 0
+Children: 110 111 112 113 114 115 116 117 118 119 120 
+Parents: 
+
+Node id: 107, dst: 2147483000, state: 0
+Children: 110 111 112 113 114 115 116 117 118 119 120 
+Parents: 
+
+Node id: 108, dst: 2147483000, state: 0
+Children: 110 111 112 113 114 115 116 117 118 119 120 
+Parents: 
+
+Node id: 109, dst: 2147483000, state: 0
+Children: 110 111 112 113 114 115 116 117 118 119 120 
+Parents: 
+
+Node id: 110, dst: 2147483000, state: 0
+Children: 121 122 123 124 125 126 127 128 129 130 131 
+Parents: 
+
+Node id: 111, dst: 2147483000, state: 0
+Children: 121 122 123 124 125 126 127 128 129 130 131 
+Parents: 
+
+Node id: 112, dst: 2147483000, state: 0
+Children: 121 122 123 124 125 126 127 128 129 130 131 
+Parents: 
+
+Node id: 113, dst: 2147483000, state: 0
+Children: 121 122 123 124 125 126 127 128 129 130 131 
+Parents: 
+
+Node id: 114, dst: 2147483000, state: 0
+Children: 121 122 123 124 125 126 127 128 129 130 131 
+Parents: 
+
+Node id: 115, dst: 2147483000, state: 0
+Children: 121 122 123 124 125 126 127 128 129 130 131 
+Parents: 
+
+Node id: 116, dst: 2147483000, state: 0
+Children: 121 122 123 124 125 126 127 128 129 130 131 
+Parents: 
+
+Node id: 117, dst: 2147483000, state: 0
+Children: 121 122 123 124 125 126 127 128 129 130 131 
+Parents: 
+
+Node id: 118, dst: 2147483000, state: 0
+Children: 121 122 123 124 125 126 127 128 129 130 131 
+Parents: 
+
+Node id: 119, dst: 2147483000, state: 0
+Children: 121 122 123 124 125 126 127 128 129 130 131 
+Parents: 
+
+Node id: 120, dst: 2147483000, state: 0
+Children: 121 122 123 124 125 126 127 128 129 130 131 
+Parents: 
+
+Node id: 121, dst: 2147483000, state: 0
+Children: 132 133 134 135 136 137 138 139 140 141 142 
+Parents: 
+
+Node id: 122, dst: 2147483000, state: 0
+Children: 132 133 134 135 136 137 138 139 140 141 142 
+Parents: 
+
+Node id: 123, dst: 2147483000, state: 0
+Children: 132 133 134 135 136 137 138 139 140 141 142 
+Parents: 
+
+Node id: 124, dst: 2147483000, state: 0
+Children: 132 133 134 135 136 137 138 139 140 141 142 
+Parents: 
+
+Node id: 125, dst: 2147483000, state: 0
+Children: 132 133 134 135 136 137 138 139 140 141 142 
+Parents: 
+
+Node id: 126, dst: 2147483000, state: 0
+Children: 132 133 134 135 136 137 138 139 140 141 142 
+Parents: 
+
+Node id: 127, dst: 2147483000, state: 0
+Children: 132 133 134 135 136 137 138 139 140 141 142 
+Parents: 
+
+Node id: 128, dst: 2147483000, state: 0
+Children: 132 133 134 135 136 137 138 139 140 141 142 
+Parents: 
+
+Node id: 129, dst: 2147483000, state: 0
+Children: 132 133 134 135 136 137 138 139 140 141 142 
+Parents: 
+
+Node id: 130, dst: 2147483000, state: 0
+Children: 132 133 134 135 136 137 138 139 140 141 142 
+Parents: 
+
+Node id: 131, dst: 2147483000, state: 0
+Children: 132 133 134 135 136 137 138 139 140 141 142 
+Parents: 
+
+Node id: 132, dst: 2147483000, state: 0
+Children: 143 144 145 146 147 148 149 150 151 152 153 
+Parents: 
+
+Node id: 133, dst: 2147483000, state: 0
+Children: 143 144 145 146 147 148 149 150 151 152 153 
+Parents: 
+
+Node id: 134, dst: 2147483000, state: 0
+Children: 143 144 145 146 147 148 149 150 151 152 153 
+Parents: 
+
+Node id: 135, dst: 2147483000, state: 0
+Children: 143 144 145 146 147 148 149 150 151 152 153 
+Parents: 
+
+Node id: 136, dst: 2147483000, state: 0
+Children: 143 144 145 146 147 148 149 150 151 152 153 
+Parents: 
+
+Node id: 137, dst: 2147483000, state: 0
+Children: 143 144 145 146 147 148 149 150 151 152 153 
+Parents: 
+
+Node id: 138, dst: 2147483000, state: 0
+Children: 143 144 145 146 147 148 149 150 151 152 153 
+Parents: 
+
+Node id: 139, dst: 2147483000, state: 0
+Children: 143 144 145 146 147 148 149 150 151 152 153 
+Parents: 
+
+Node id: 140, dst: 2147483000, state: 0
+Children: 143 144 145 146 147 148 149 150 151 152 153 
+Parents: 
+
+Node id: 141, dst: 2147483000, state: 0
+Children: 143 144 145 146 147 148 149 150 151 152 153 
+Parents: 
+
+Node id: 142, dst: 2147483000, state: 0
+Children: 143 144 145 146 147 148 149 150 151 152 153 
+Parents: 
+
+Node id: 143, dst: 2147483000, state: 0
+Children: 154 155 156 157 158 159 160 161 162 163 164 
+Parents: 
+
+Node id: 144, dst: 2147483000, state: 0
+Children: 154 155 156 157 158 159 160 161 162 163 164 
+Parents: 
+
+Node id: 145, dst: 2147483000, state: 0
+Children: 154 155 156 157 158 159 160 161 162 163 164 
+Parents: 
+
+Node id: 146, dst: 2147483000, state: 0
+Children: 154 155 156 157 158 159 160 161 162 163 164 
+Parents: 
+
+Node id: 147, dst: 2147483000, state: 0
+Children: 154 155 156 157 158 159 160 161 162 163 164 
+Parents: 
+
+Node id: 148, dst: 2147483000, state: 0
+Children: 154 155 156 157 158 159 160 161 162 163 164 
+Parents: 
+
+Node id: 149, dst: 2147483000, state: 0
+Children: 154 155 156 157 158 159 160 161 162 163 164 
+Parents: 
+
+Node id: 150, dst: 2147483000, state: 0
+Children: 154 155 156 157 158 159 160 161 162 163 164 
+Parents: 
+
+Node id: 151, dst: 2147483000, state: 0
+Children: 154 155 156 157 158 159 160 161 162 163 164 
+Parents: 
+
+Node id: 152, dst: 2147483000, state: 0
+Children: 154 155 156 157 158 159 160 161 162 163 164 
+Parents: 
+
+Node id: 153, dst: 2147483000, state: 0
+Children: 154 155 156 157 158 159 160 161 162 163 164 
+Parents: 
+
+Node id: 154, dst: 2147483000, state: 0
+Children: 165 166 167 168 169 170 171 172 173 174 175 
+Parents: 
+
+Node id: 155, dst: 2147483000, state: 0
+Children: 165 166 167 168 169 170 171 172 173 174 175 
+Parents: 
+
+Node id: 156, dst: 2147483000, state: 0
+Children: 165 166 167 168 169 170 171 172 173 174 175 
+Parents: 
+
+Node id: 157, dst: 2147483000, state: 0
+Children: 165 166 167 168 169 170 171 172 173 174 175 
+Parents: 
+
+Node id: 158, dst: 2147483000, state: 0
+Children: 165 166 167 168 169 170 171 172 173 174 175 
+Parents: 
+
+Node id: 159, dst: 2147483000, state: 0
+Children: 165 166 167 168 169 170 171 172 173 174 175 
+Parents: 
+
+Node id: 160, dst: 2147483000, state: 0
+Children: 165 166 167 168 169 170 171 172 173 174 175 
+Parents: 
+
+Node id: 161, dst: 2147483000, state: 0
+Children: 165 166 167 168 169 170 171 172 173 174 175 
+Parents: 
+
+Node id: 162, dst: 2147483000, state: 0
+Children: 165 166 167 168 169 170 171 172 173 174 175 
+Parents: 
+
+Node id: 163, dst: 2147483000, state: 0
+Children: 165 166 167 168 169 170 171 172 173 174 175 
+Parents: 
+
+Node id: 164, dst: 2147483000, state: 0
+Children: 165 166 167 168 169 170 171 172 173 174 175 
+Parents: 
+
+Node id: 165, dst: 2147483000, state: 0
+Children: 176 177 178 179 180 181 182 183 184 185 186 
+Parents: 
+
+Node id: 166, dst: 2147483000, state: 0
+Children: 176 177 178 179 180 181 182 183 184 185 186 
+Parents: 
+
+Node id: 167, dst: 2147483000, state: 0
+Children: 176 177 178 179 180 181 182 183 184 185 186 
+Parents: 
+
+Node id: 168, dst: 2147483000, state: 0
+Children: 176 177 178 179 180 181 182 183 184 185 186 
+Parents: 
+
+Node id: 169, dst: 2147483000, state: 0
+Children: 176 177 178 179 180 181 182 183 184 185 186 
+Parents: 
+
+Node id: 170, dst: 2147483000, state: 0
+Children: 176 177 178 179 180 181 182 183 184 185 186 
+Parents: 
+
+Node id: 171, dst: 2147483000, state: 0
+Children: 176 177 178 179 180 181 182 183 184 185 186 
+Parents: 
+
+Node id: 172, dst: 2147483000, state: 0
+Children: 176 177 178 179 180 181 182 183 184 185 186 
+Parents: 
+
+Node id: 173, dst: 2147483000, state: 0
+Children: 176 177 178 179 180 181 182 183 184 185 186 
+Parents: 
+
+Node id: 174, dst: 2147483000, state: 0
+Children: 176 177 178 179 180 181 182 183 184 185 186 
+Parents: 
+
+Node id: 175, dst: 2147483000, state: 0
+Children: 176 177 178 179 180 181 182 183 184 185 186 
+Parents: 
+
+Node id: 176, dst: 2147483000, state: 0
+Children: 187 188 189 190 191 192 193 194 195 196 197 
+Parents: 
+
+Node id: 177, dst: 2147483000, state: 0
+Children: 187 188 189 190 191 192 193 194 195 196 197 
+Parents: 
+
+Node id: 178, dst: 2147483000, state: 0
+Children: 187 188 189 190 191 192 193 194 195 196 197 
+Parents: 
+
+Node id: 179, dst: 2147483000, state: 0
+Children: 187 188 189 190 191 192 193 194 195 196 197 
+Parents: 
+
+Node id: 180, dst: 2147483000, state: 0
+Children: 187 188 189 190 191 192 193 194 195 196 197 
+Parents: 
+
+Node id: 181, dst: 2147483000, state: 0
+Children: 187 188 189 190 191 192 193 194 195 196 197 
+Parents: 
+
+Node id: 182, dst: 2147483000, state: 0
+Children: 187 188 189 190 191 192 193 194 195 196 197 
+Parents: 
+
+Node id: 183, dst: 2147483000, state: 0
+Children: 187 188 189 190 191 192 193 194 195 196 197 
+Parents: 
+
+Node id: 184, dst: 2147483000, state: 0
+Children: 187 188 189 190 191 192 193 194 195 196 197 
+Parents: 
+
+Node id: 185, dst: 2147483000, state: 0
+Children: 187 188 189 190 191 192 193 194 195 196 197 
+Parents: 
+
+Node id: 186, dst: 2147483000, state: 0
+Children: 187 188 189 190 191 192 193 194 195 196 197 
+Parents: 
+
+Node id: 187, dst: 2147483000, state: 0
+Children: 198 199 200 201 202 203 204 205 206 207 208 
+Parents: 
+
+Node id: 188, dst: 2147483000, state: 0
+Children: 198 199 200 201 202 203 204 205 206 207 208 
+Parents: 
+
+Node id: 189, dst: 2147483000, state: 0
+Children: 198 199 200 201 202 203 204 205 206 207 208 
+Parents: 
+
+Node id: 190, dst: 2147483000, state: 0
+Children: 198 199 200 201 202 203 204 205 206 207 208 
+Parents: 
+
+Node id: 191, dst: 2147483000, state: 0
+Children: 198 199 200 201 202 203 204 205 206 207 208 
+Parents: 
+
+Node id: 192, dst: 2147483000, state: 0
+Children: 198 199 200 201 202 203 204 205 206 207 208 
+Parents: 
+
+Node id: 193, dst: 2147483000, state: 0
+Children: 198 199 200 201 202 203 204 205 206 207 208 
+Parents: 
+
+Node id: 194, dst: 2147483000, state: 0
+Children: 198 199 200 201 202 203 204 205 206 207 208 
+Parents: 
+
+Node id: 195, dst: 2147483000, state: 0
+Children: 198 199 200 201 202 203 204 205 206 207 208 
+Parents: 
+
+Node id: 196, dst: 2147483000, state: 0
+Children: 198 199 200 201 202 203 204 205 206 207 208 
+Parents: 
+
+Node id: 197, dst: 2147483000, state: 0
+Children: 198 199 200 201 202 203 204 205 206 207 208 
+Parents: 
+
+Node id: 198, dst: 2147483000, state: 0
+Children: 209 210 211 212 213 214 215 216 217 218 219 
+Parents: 
+
+Node id: 199, dst: 2147483000, state: 0
+Children: 209 210 211 212 213 214 215 216 217 218 219 
+Parents: 
+
+Node id: 200, dst: 2147483000, state: 0
+Children: 209 210 211 212 213 214 215 216 217 218 219 
+Parents: 
+
+Node id: 201, dst: 2147483000, state: 0
+Children: 209 210 211 212 213 214 215 216 217 218 219 
+Parents: 
+
+Node id: 202, dst: 2147483000, state: 0
+Children: 209 210 211 212 213 214 215 216 217 218 219 
+Parents: 
+
+Node id: 203, dst: 2147483000, state: 0
+Children: 209 210 211 212 213 214 215 216 217 218 219 
+Parents: 
+
+Node id: 204, dst: 2147483000, state: 0
+Children: 209 210 211 212 213 214 215 216 217 218 219 
+Parents: 
+
+Node id: 205, dst: 2147483000, state: 0
+Children: 209 210 211 212 213 214 215 216 217 218 219 
+Parents: 
+
+Node id: 206, dst: 2147483000, state: 0
+Children: 209 210 211 212 213 214 215 216 217 218 219 
+Parents: 
+
+Node id: 207, dst: 2147483000, state: 0
+Children: 209 210 211 212 213 214 215 216 217 218 219 
+Parents: 
+
+Node id: 208, dst: 2147483000, state: 0
+Children: 209 210 211 212 213 214 215 216 217 218 219 
+Parents: 
+
+Node id: 209, dst: 2147483000, state: 0
+Children: 220 221 222 223 224 225 226 227 228 229 230 
+Parents: 
+
+Node id: 210, dst: 2147483000, state: 0
+Children: 220 221 222 223 224 225 226 227 228 229 230 
+Parents: 
+
+Node id: 211, dst: 2147483000, state: 0
+Children: 220 221 222 223 224 225 226 227 228 229 230 
+Parents: 
+
+Node id: 212, dst: 2147483000, state: 0
+Children: 220 221 222 223 224 225 226 227 228 229 230 
+Parents: 
+
+Node id: 213, dst: 2147483000, state: 0
+Children: 220 221 222 223 224 225 226 227 228 229 230 
+Parents: 
+
+Node id: 214, dst: 2147483000, state: 0
+Children: 220 221 222 223 224 225 226 227 228 229 230 
+Parents: 
+
+Node id: 215, dst: 2147483000, state: 0
+Children: 220 221 222 223 224 225 226 227 228 229 230 
+Parents: 
+
+Node id: 216, dst: 2147483000, state: 0
+Children: 220 221 222 223 224 225 226 227 228 229 230 
+Parents: 
+
+Node id: 217, dst: 2147483000, state: 0
+Children: 220 221 222 223 224 225 226 227 228 229 230 
+Parents: 
+
+Node id: 218, dst: 2147483000, state: 0
+Children: 220 221 222 223 224 225 226 227 228 229 230 
+Parents: 
+
+Node id: 219, dst: 2147483000, state: 0
+Children: 220 221 222 223 224 225 226 227 228 229 230 
+Parents: 
+
+Node id: 220, dst: 2147483000, state: 0
+Children: 231 232 233 234 235 236 237 238 239 240 241 
+Parents: 
+
+Node id: 221, dst: 2147483000, state: 0
+Children: 231 232 233 234 235 236 237 238 239 240 241 
+Parents: 
+
+Node id: 222, dst: 2147483000, state: 0
+Children: 231 232 233 234 235 236 237 238 239 240 241 
+Parents: 
+
+Node id: 223, dst: 2147483000, state: 0
+Children: 231 232 233 234 235 236 237 238 239 240 241 
+Parents: 
+
+Node id: 224, dst: 2147483000, state: 0
+Children: 231 232 233 234 235 236 237 238 239 240 241 
+Parents: 
+
+Node id: 225, dst: 2147483000, state: 0
+Children: 231 232 233 234 235 236 237 238 239 240 241 
+Parents: 
+
+Node id: 226, dst: 2147483000, state: 0
+Children: 231 232 233 234 235 236 237 238 239 240 241 
+Parents: 
+
+Node id: 227, dst: 2147483000, state: 0
+Children: 231 232 233 234 235 236 237 238 239 240 241 
+Parents: 
+
+Node id: 228, dst: 2147483000, state: 0
+Children: 231 232 233 234 235 236 237 238 239 240 241 
+Parents: 
+
+Node id: 229, dst: 2147483000, state: 0
+Children: 231 232 233 234 235 236 237 238 239 240 241 
+Parents: 
+
+Node id: 230, dst: 2147483000, state: 0
+Children: 231 232 233 234 235 236 237 238 239 240 241 
+Parents: 
+
+Node id: 231, dst: 2147483000, state: 0
+Children: 242 243 244 245 246 247 248 249 250 251 252 
+Parents: 
+
+Node id: 232, dst: 2147483000, state: 0
+Children: 242 243 244 245 246 247 248 249 250 251 252 
+Parents: 
+
+Node id: 233, dst: 2147483000, state: 0
+Children: 242 243 244 245 246 247 248 249 250 251 252 
+Parents: 
+
+Node id: 234, dst: 2147483000, state: 0
+Children: 242 243 244 245 246 247 248 249 250 251 252 
+Parents: 
+
+Node id: 235, dst: 2147483000, state: 0
+Children: 242 243 244 245 246 247 248 249 250 251 252 
+Parents: 
+
+Node id: 236, dst: 2147483000, state: 0
+Children: 242 243 244 245 246 247 248 249 250 251 252 
+Parents: 
+
+Node id: 237, dst: 2147483000, state: 0
+Children: 242 243 244 245 246 247 248 249 250 251 252 
+Parents: 
+
+Node id: 238, dst: 2147483000, state: 0
+Children: 242 243 244 245 246 247 248 249 250 251 252 
+Parents: 
+
+Node id: 239, dst: 2147483000, state: 0
+Children: 242 243 244 245 246 247 248 249 250 251 252 
+Parents: 
+
+Node id: 240, dst: 2147483000, state: 0
+Children: 242 243 244 245 246 247 248 249 250 251 252 
+Parents: 
+
+Node id: 241, dst: 2147483000, state: 0
+Children: 242 243 244 245 246 247 248 249 250 251 252 
+Parents: 
+
+Node id: 242, dst: 2147483000, state: 0
+Children: 253 254 255 256 257 258 259 260 261 262 263 
+Parents: 
+
+Node id: 243, dst: 2147483000, state: 0
+Children: 253 254 255 256 257 258 259 260 261 262 263 
+Parents: 
+
+Node id: 244, dst: 2147483000, state: 0
+Children: 253 254 255 256 257 258 259 260 261 262 263 
+Parents: 
+
+Node id: 245, dst: 2147483000, state: 0
+Children: 253 254 255 256 257 258 259 260 261 262 263 
+Parents: 
+
+Node id: 246, dst: 2147483000, state: 0
+Children: 253 254 255 256 257 258 259 260 261 262 263 
+Parents: 
+
+Node id: 247, dst: 2147483000, state: 0
+Children: 253 254 255 256 257 258 259 260 261 262 263 
+Parents: 
+
+Node id: 248, dst: 2147483000, state: 0
+Children: 253 254 255 256 257 258 259 260 261 262 263 
+Parents: 
+
+Node id: 249, dst: 2147483000, state: 0
+Children: 253 254 255 256 257 258 259 260 261 262 263 
+Parents: 
+
+Node id: 250, dst: 2147483000, state: 0
+Children: 253 254 255 256 257 258 259 260 261 262 263 
+Parents: 
+
+Node id: 251, dst: 2147483000, state: 0
+Children: 253 254 255 256 257 258 259 260 261 262 263 
+Parents: 
+
+Node id: 252, dst: 2147483000, state: 0
+Children: 253 254 255 256 257 258 259 260 261 262 263 
+Parents: 
+
+Node id: 253, dst: 2147483000, state: 0
+Children: 264 265 266 267 268 269 270 271 272 273 274 
+Parents: 
+
+Node id: 254, dst: 2147483000, state: 0
+Children: 264 265 266 267 268 269 270 271 272 273 274 
+Parents: 
+
+Node id: 255, dst: 2147483000, state: 0
+Children: 264 265 266 267 268 269 270 271 272 273 274 
+Parents: 
+
+Node id: 256, dst: 2147483000, state: 0
+Children: 264 265 266 267 268 269 270 271 272 273 274 
+Parents: 
+
+Node id: 257, dst: 2147483000, state: 0
+Children: 264 265 266 267 268 269 270 271 272 273 274 
+Parents: 
+
+Node id: 258, dst: 2147483000, state: 0
+Children: 264 265 266 267 268 269 270 271 272 273 274 
+Parents: 
+
+Node id: 259, dst: 2147483000, state: 0
+Children: 264 265 266 267 268 269 270 271 272 273 274 
+Parents: 
+
+Node id: 260, dst: 2147483000, state: 0
+Children: 264 265 266 267 268 269 270 271 272 273 274 
+Parents: 
+
+Node id: 261, dst: 2147483000, state: 0
+Children: 264 265 266 267 268 269 270 271 272 273 274 
+Parents: 
+
+Node id: 262, dst: 2147483000, state: 0
+Children: 264 265 266 267 268 269 270 271 272 273 274 
+Parents: 
+
+Node id: 263, dst: 2147483000, state: 0
+Children: 264 265 266 267 268 269 270 271 272 273 274 
+Parents: 
+
+Node id: 264, dst: 2147483000, state: 0
+Children: 275 276 277 278 279 280 281 282 283 284 285 
+Parents: 
+
+Node id: 265, dst: 2147483000, state: 0
+Children: 275 276 277 278 279 280 281 282 283 284 285 
+Parents: 
+
+Node id: 266, dst: 2147483000, state: 0
+Children: 275 276 277 278 279 280 281 282 283 284 285 
+Parents: 
+
+Node id: 267, dst: 2147483000, state: 0
+Children: 275 276 277 278 279 280 281 282 283 284 285 
+Parents: 
+
+Node id: 268, dst: 2147483000, state: 0
+Children: 275 276 277 278 279 280 281 282 283 284 285 
+Parents: 
+
+Node id: 269, dst: 2147483000, state: 0
+Children: 275 276 277 278 279 280 281 282 283 284 285 
+Parents: 
+
+Node id: 270, dst: 2147483000, state: 0
+Children: 275 276 277 278 279 280 281 282 283 284 285 
+Parents: 
+
+Node id: 271, dst: 2147483000, state: 0
+Children: 275 276 277 278 279 280 281 282 283 284 285 
+Parents: 
+
+Node id: 272, dst: 2147483000, state: 0
+Children: 275 276 277 278 279 280 281 282 283 284 285 
+Parents: 
+
+Node id: 273, dst: 2147483000, state: 0
+Children: 275 276 277 278 279 280 281 282 283 284 285 
+Parents: 
+
+Node id: 274, dst: 2147483000, state: 0
+Children: 275 276 277 278 279 280 281 282 283 284 285 
+Parents: 
+
+Node id: 275, dst: 2147483000, state: 0
+Children: 286 287 288 289 290 291 292 293 294 295 296 
+Parents: 
+
+Node id: 276, dst: 2147483000, state: 0
+Children: 286 287 288 289 290 291 292 293 294 295 296 
+Parents: 
+
+Node id: 277, dst: 2147483000, state: 0
+Children: 286 287 288 289 290 291 292 293 294 295 296 
+Parents: 
+
+Node id: 278, dst: 2147483000, state: 0
+Children: 286 287 288 289 290 291 292 293 294 295 296 
+Parents: 
+
+Node id: 279, dst: 2147483000, state: 0
+Children: 286 287 288 289 290 291 292 293 294 295 296 
+Parents: 
+
+Node id: 280, dst: 2147483000, state: 0
+Children: 286 287 288 289 290 291 292 293 294 295 296 
+Parents: 
+
+Node id: 281, dst: 2147483000, state: 0
+Children: 286 287 288 289 290 291 292 293 294 295 296 
+Parents: 
+
+Node id: 282, dst: 2147483000, state: 0
+Children: 286 287 288 289 290 291 292 293 294 295 296 
+Parents: 
+
+Node id: 283, dst: 2147483000, state: 0
+Children: 286 287 288 289 290 291 292 293 294 295 296 
+Parents: 
+
+Node id: 284, dst: 2147483000, state: 0
+Children: 286 287 288 289 290 291 292 293 294 295 296 
+Parents: 
+
+Node id: 285, dst: 2147483000, state: 0
+Children: 286 287 288 289 290 291 292 293 294 295 296 
+Parents: 
+
+Node id: 286, dst: 2147483000, state: 0
+Children: 297 298 299 300 301 302 303 304 305 306 307 
+Parents: 
+
+Node id: 287, dst: 2147483000, state: 0
+Children: 297 298 299 300 301 302 303 304 305 306 307 
+Parents: 
+
+Node id: 288, dst: 2147483000, state: 0
+Children: 297 298 299 300 301 302 303 304 305 306 307 
+Parents: 
+
+Node id: 289, dst: 2147483000, state: 0
+Children: 297 298 299 300 301 302 303 304 305 306 307 
+Parents: 
+
+Node id: 290, dst: 2147483000, state: 0
+Children: 297 298 299 300 301 302 303 304 305 306 307 
+Parents: 
+
+Node id: 291, dst: 2147483000, state: 0
+Children: 297 298 299 300 301 302 303 304 305 306 307 
+Parents: 
+
+Node id: 292, dst: 2147483000, state: 0
+Children: 297 298 299 300 301 302 303 304 305 306 307 
+Parents: 
+
+Node id: 293, dst: 2147483000, state: 0
+Children: 297 298 299 300 301 302 303 304 305 306 307 
+Parents: 
+
+Node id: 294, dst: 2147483000, state: 0
+Children: 297 298 299 300 301 302 303 304 305 306 307 
+Parents: 
+
+Node id: 295, dst: 2147483000, state: 0
+Children: 297 298 299 300 301 302 303 304 305 306 307 
+Parents: 
+
+Node id: 296, dst: 2147483000, state: 0
+Children: 297 298 299 300 301 302 303 304 305 306 307 
+Parents: 
+
+Node id: 297, dst: 2147483000, state: 0
+Children: 308 309 310 311 312 313 314 315 316 317 318 
+Parents: 
+
+Node id: 298, dst: 2147483000, state: 0
+Children: 308 309 310 311 312 313 314 315 316 317 318 
+Parents: 
+
+Node id: 299, dst: 2147483000, state: 0
+Children: 308 309 310 311 312 313 314 315 316 317 318 
+Parents: 
+
+Node id: 300, dst: 2147483000, state: 0
+Children: 308 309 310 311 312 313 314 315 316 317 318 
+Parents: 
+
+Node id: 301, dst: 2147483000, state: 0
+Children: 308 309 310 311 312 313 314 315 316 317 318 
+Parents: 
+
+Node id: 302, dst: 2147483000, state: 0
+Children: 308 309 310 311 312 313 314 315 316 317 318 
+Parents: 
+
+Node id: 303, dst: 2147483000, state: 0
+Children: 308 309 310 311 312 313 314 315 316 317 318 
+Parents: 
+
+Node id: 304, dst: 2147483000, state: 0
+Children: 308 309 310 311 312 313 314 315 316 317 318 
+Parents: 
+
+Node id: 305, dst: 2147483000, state: 0
+Children: 308 309 310 311 312 313 314 315 316 317 318 
+Parents: 
+
+Node id: 306, dst: 2147483000, state: 0
+Children: 308 309 310 311 312 313 314 315 316 317 318 
+Parents: 
+
+Node id: 307, dst: 2147483000, state: 0
+Children: 308 309 310 311 312 313 314 315 316 317 318 
+Parents: 
+
+Node id: 308, dst: 2147483000, state: 0
+Children: 319 320 321 322 323 324 325 326 327 328 329 
+Parents: 
+
+Node id: 309, dst: 2147483000, state: 0
+Children: 319 320 321 322 323 324 325 326 327 328 329 
+Parents: 
+
+Node id: 310, dst: 2147483000, state: 0
+Children: 319 320 321 322 323 324 325 326 327 328 329 
+Parents: 
+
+Node id: 311, dst: 2147483000, state: 0
+Children: 319 320 321 322 323 324 325 326 327 328 329 
+Parents: 
+
+Node id: 312, dst: 2147483000, state: 0
+Children: 319 320 321 322 323 324 325 326 327 328 329 
+Parents: 
+
+Node id: 313, dst: 2147483000, state: 0
+Children: 319 320 321 322 323 324 325 326 327 328 329 
+Parents: 
+
+Node id: 314, dst: 2147483000, state: 0
+Children: 319 320 321 322 323 324 325 326 327 328 329 
+Parents: 
+
+Node id: 315, dst: 2147483000, state: 0
+Children: 319 320 321 322 323 324 325 326 327 328 329 
+Parents: 
+
+Node id: 316, dst: 2147483000, state: 0
+Children: 319 320 321 322 323 324 325 326 327 328 329 
+Parents: 
+
+Node id: 317, dst: 2147483000, state: 0
+Children: 319 320 321 322 323 324 325 326 327 328 329 
+Parents: 
+
+Node id: 318, dst: 2147483000, state: 0
+Children: 319 320 321 322 323 324 325 326 327 328 329 
+Parents: 
+
+Node id: 319, dst: 2147483000, state: 0
+Children: 330 331 332 333 334 335 336 337 338 339 340 
+Parents: 
+
+Node id: 320, dst: 2147483000, state: 0
+Children: 330 331 332 333 334 335 336 337 338 339 340 
+Parents: 
+
+Node id: 321, dst: 2147483000, state: 0
+Children: 330 331 332 333 334 335 336 337 338 339 340 
+Parents: 
+
+Node id: 322, dst: 2147483000, state: 0
+Children: 330 331 332 333 334 335 336 337 338 339 340 
+Parents: 
+
+Node id: 323, dst: 2147483000, state: 0
+Children: 330 331 332 333 334 335 336 337 338 339 340 
+Parents: 
+
+Node id: 324, dst: 2147483000, state: 0
+Children: 330 331 332 333 334 335 336 337 338 339 340 
+Parents: 
+
+Node id: 325, dst: 2147483000, state: 0
+Children: 330 331 332 333 334 335 336 337 338 339 340 
+Parents: 
+
+Node id: 326, dst: 2147483000, state: 0
+Children: 330 331 332 333 334 335 336 337 338 339 340 
+Parents: 
+
+Node id: 327, dst: 2147483000, state: 0
+Children: 330 331 332 333 334 335 336 337 338 339 340 
+Parents: 
+
+Node id: 328, dst: 2147483000, state: 0
+Children: 330 331 332 333 334 335 336 337 338 339 340 
+Parents: 
+
+Node id: 329, dst: 2147483000, state: 0
+Children: 330 331 332 333 334 335 336 337 338 339 340 
+Parents: 
+
+Node id: 330, dst: 2147483000, state: 0
+Children: 341 342 343 344 345 346 347 348 349 350 351 
+Parents: 
+
+Node id: 331, dst: 2147483000, state: 0
+Children: 341 342 343 344 345 346 347 348 349 350 351 
+Parents: 
+
+Node id: 332, dst: 2147483000, state: 0
+Children: 341 342 343 344 345 346 347 348 349 350 351 
+Parents: 
+
+Node id: 333, dst: 2147483000, state: 0
+Children: 341 342 343 344 345 346 347 348 349 350 351 
+Parents: 
+
+Node id: 334, dst: 2147483000, state: 0
+Children: 341 342 343 344 345 346 347 348 349 350 351 
+Parents: 
+
+Node id: 335, dst: 2147483000, state: 0
+Children: 341 342 343 344 345 346 347 348 349 350 351 
+Parents: 
+
+Node id: 336, dst: 2147483000, state: 0
+Children: 341 342 343 344 345 346 347 348 349 350 351 
+Parents: 
+
+Node id: 337, dst: 2147483000, state: 0
+Children: 341 342 343 344 345 346 347 348 349 350 351 
+Parents: 
+
+Node id: 338, dst: 2147483000, state: 0
+Children: 341 342 343 344 345 346 347 348 349 350 351 
+Parents: 
+
+Node id: 339, dst: 2147483000, state: 0
+Children: 341 342 343 344 345 346 347 348 349 350 351 
+Parents: 
+
+Node id: 340, dst: 2147483000, state: 0
+Children: 341 342 343 344 345 346 347 348 349 350 351 
+Parents: 
+
+Node id: 341, dst: 2147483000, state: 0
+Children: 352 353 354 355 356 357 358 359 360 361 362 
+Parents: 
+
+Node id: 342, dst: 2147483000, state: 0
+Children: 352 353 354 355 356 357 358 359 360 361 362 
+Parents: 
+
+Node id: 343, dst: 2147483000, state: 0
+Children: 352 353 354 355 356 357 358 359 360 361 362 
+Parents: 
+
+Node id: 344, dst: 2147483000, state: 0
+Children: 352 353 354 355 356 357 358 359 360 361 362 
+Parents: 
+
+Node id: 345, dst: 2147483000, state: 0
+Children: 352 353 354 355 356 357 358 359 360 361 362 
+Parents: 
+
+Node id: 346, dst: 2147483000, state: 0
+Children: 352 353 354 355 356 357 358 359 360 361 362 
+Parents: 
+
+Node id: 347, dst: 2147483000, state: 0
+Children: 352 353 354 355 356 357 358 359 360 361 362 
+Parents: 
+
+Node id: 348, dst: 2147483000, state: 0
+Children: 352 353 354 355 356 357 358 359 360 361 362 
+Parents: 
+
+Node id: 349, dst: 2147483000, state: 0
+Children: 352 353 354 355 356 357 358 359 360 361 362 
+Parents: 
+
+Node id: 350, dst: 2147483000, state: 0
+Children: 352 353 354 355 356 357 358 359 360 361 362 
+Parents: 
+
+Node id: 351, dst: 2147483000, state: 0
+Children: 352 353 354 355 356 357 358 359 360 361 362 
+Parents: 
+
+Node id: 352, dst: 2147483000, state: 0
+Children: 363 364 365 366 367 368 369 370 371 372 373 
+Parents: 
+
+Node id: 353, dst: 2147483000, state: 0
+Children: 363 364 365 366 367 368 369 370 371 372 373 
+Parents: 
+
+Node id: 354, dst: 2147483000, state: 0
+Children: 363 364 365 366 367 368 369 370 371 372 373 
+Parents: 
+
+Node id: 355, dst: 2147483000, state: 0
+Children: 363 364 365 366 367 368 369 370 371 372 373 
+Parents: 
+
+Node id: 356, dst: 2147483000, state: 0
+Children: 363 364 365 366 367 368 369 370 371 372 373 
+Parents: 
+
+Node id: 357, dst: 2147483000, state: 0
+Children: 363 364 365 366 367 368 369 370 371 372 373 
+Parents: 
+
+Node id: 358, dst: 2147483000, state: 0
+Children: 363 364 365 366 367 368 369 370 371 372 373 
+Parents: 
+
+Node id: 359, dst: 2147483000, state: 0
+Children: 363 364 365 366 367 368 369 370 371 372 373 
+Parents: 
+
+Node id: 360, dst: 2147483000, state: 0
+Children: 363 364 365 366 367 368 369 370 371 372 373 
+Parents: 
+
+Node id: 361, dst: 2147483000, state: 0
+Children: 363 364 365 366 367 368 369 370 371 372 373 
+Parents: 
+
+Node id: 362, dst: 2147483000, state: 0
+Children: 363 364 365 366 367 368 369 370 371 372 373 
+Parents: 
+
+Node id: 363, dst: 2147483000, state: 0
+Children: 374 375 376 377 378 379 380 381 382 383 384 
+Parents: 
+
+Node id: 364, dst: 2147483000, state: 0
+Children: 374 375 376 377 378 379 380 381 382 383 384 
+Parents: 
+
+Node id: 365, dst: 2147483000, state: 0
+Children: 374 375 376 377 378 379 380 381 382 383 384 
+Parents: 
+
+Node id: 366, dst: 2147483000, state: 0
+Children: 374 375 376 377 378 379 380 381 382 383 384 
+Parents: 
+
+Node id: 367, dst: 2147483000, state: 0
+Children: 374 375 376 377 378 379 380 381 382 383 384 
+Parents: 
+
+Node id: 368, dst: 2147483000, state: 0
+Children: 374 375 376 377 378 379 380 381 382 383 384 
+Parents: 
+
+Node id: 369, dst: 2147483000, state: 0
+Children: 374 375 376 377 378 379 380 381 382 383 384 
+Parents: 
+
+Node id: 370, dst: 2147483000, state: 0
+Children: 374 375 376 377 378 379 380 381 382 383 384 
+Parents: 
+
+Node id: 371, dst: 2147483000, state: 0
+Children: 374 375 376 377 378 379 380 381 382 383 384 
+Parents: 
+
+Node id: 372, dst: 2147483000, state: 0
+Children: 374 375 376 377 378 379 380 381 382 383 384 
+Parents: 
+
+Node id: 373, dst: 2147483000, state: 0
+Children: 374 375 376 377 378 379 380 381 382 383 384 
+Parents: 
+
+Node id: 374, dst: 2147483000, state: 0
+Children: 385 386 387 388 389 390 391 392 393 394 395 
+Parents: 
+
+Node id: 375, dst: 2147483000, state: 0
+Children: 385 386 387 388 389 390 391 392 393 394 395 
+Parents: 
+
+Node id: 376, dst: 2147483000, state: 0
+Children: 385 386 387 388 389 390 391 392 393 394 395 
+Parents: 
+
+Node id: 377, dst: 2147483000, state: 0
+Children: 385 386 387 388 389 390 391 392 393 394 395 
+Parents: 
+
+Node id: 378, dst: 2147483000, state: 0
+Children: 385 386 387 388 389 390 391 392 393 394 395 
+Parents: 
+
+Node id: 379, dst: 2147483000, state: 0
+Children: 385 386 387 388 389 390 391 392 393 394 395 
+Parents: 
+
+Node id: 380, dst: 2147483000, state: 0
+Children: 385 386 387 388 389 390 391 392 393 394 395 
+Parents: 
+
+Node id: 381, dst: 2147483000, state: 0
+Children: 385 386 387 388 389 390 391 392 393 394 395 
+Parents: 
+
+Node id: 382, dst: 2147483000, state: 0
+Children: 385 386 387 388 389 390 391 392 393 394 395 
+Parents: 
+
+Node id: 383, dst: 2147483000, state: 0
+Children: 385 386 387 388 389 390 391 392 393 394 395 
+Parents: 
+
+Node id: 384, dst: 2147483000, state: 0
+Children: 385 386 387 388 389 390 391 392 393 394 395 
+Parents: 
+
+Node id: 385, dst: 2147483000, state: 0
+Children: 396 397 398 399 400 401 402 403 404 405 406 
+Parents: 
+
+Node id: 386, dst: 2147483000, state: 0
+Children: 396 397 398 399 400 401 402 403 404 405 406 
+Parents: 
+
+Node id: 387, dst: 2147483000, state: 0
+Children: 396 397 398 399 400 401 402 403 404 405 406 
+Parents: 
+
+Node id: 388, dst: 2147483000, state: 0
+Children: 396 397 398 399 400 401 402 403 404 405 406 
+Parents: 
+
+Node id: 389, dst: 2147483000, state: 0
+Children: 396 397 398 399 400 401 402 403 404 405 406 
+Parents: 
+
+Node id: 390, dst: 2147483000, state: 0
+Children: 396 397 398 399 400 401 402 403 404 405 406 
+Parents: 
+
+Node id: 391, dst: 2147483000, state: 0
+Children: 396 397 398 399 400 401 402 403 404 405 406 
+Parents: 
+
+Node id: 392, dst: 2147483000, state: 0
+Children: 396 397 398 399 400 401 402 403 404 405 406 
+Parents: 
+
+Node id: 393, dst: 2147483000, state: 0
+Children: 396 397 398 399 400 401 402 403 404 405 406 
+Parents: 
+
+Node id: 394, dst: 2147483000, state: 0
+Children: 396 397 398 399 400 401 402 403 404 405 406 
+Parents: 
+
+Node id: 395, dst: 2147483000, state: 0
+Children: 396 397 398 399 400 401 402 403 404 405 406 
+Parents: 
+
+Node id: 396, dst: 2147483000, state: 0
+Children: 407 408 409 410 411 412 413 414 415 416 417 
+Parents: 
+
+Node id: 397, dst: 2147483000, state: 0
+Children: 407 408 409 410 411 412 413 414 415 416 417 
+Parents: 
+
+Node id: 398, dst: 2147483000, state: 0
+Children: 407 408 409 410 411 412 413 414 415 416 417 
+Parents: 
+
+Node id: 399, dst: 2147483000, state: 0
+Children: 407 408 409 410 411 412 413 414 415 416 417 
+Parents: 
+
+Node id: 400, dst: 2147483000, state: 0
+Children: 407 408 409 410 411 412 413 414 415 416 417 
+Parents: 
+
+Node id: 401, dst: 2147483000, state: 0
+Children: 407 408 409 410 411 412 413 414 415 416 417 
+Parents: 
+
+Node id: 402, dst: 2147483000, state: 0
+Children: 407 408 409 410 411 412 413 414 415 416 417 
+Parents: 
+
+Node id: 403, dst: 2147483000, state: 0
+Children: 407 408 409 410 411 412 413 414 415 416 417 
+Parents: 
+
+Node id: 404, dst: 2147483000, state: 0
+Children: 407 408 409 410 411 412 413 414 415 416 417 
+Parents: 
+
+Node id: 405, dst: 2147483000, state: 0
+Children: 407 408 409 410 411 412 413 414 415 416 417 
+Parents: 
+
+Node id: 406, dst: 2147483000, state: 0
+Children: 407 408 409 410 411 412 413 414 415 416 417 
+Parents: 
+
+Node id: 407, dst: 2147483000, state: 0
+Children: 418 419 420 421 422 423 424 425 426 427 428 
+Parents: 
+
+Node id: 408, dst: 2147483000, state: 0
+Children: 418 419 420 421 422 423 424 425 426 427 428 
+Parents: 
+
+Node id: 409, dst: 2147483000, state: 0
+Children: 418 419 420 421 422 423 424 425 426 427 428 
+Parents: 
+
+Node id: 410, dst: 2147483000, state: 0
+Children: 418 419 420 421 422 423 424 425 426 427 428 
+Parents: 
+
+Node id: 411, dst: 2147483000, state: 0
+Children: 418 419 420 421 422 423 424 425 426 427 428 
+Parents: 
+
+Node id: 412, dst: 2147483000, state: 0
+Children: 418 419 420 421 422 423 424 425 426 427 428 
+Parents: 
+
+Node id: 413, dst: 2147483000, state: 0
+Children: 418 419 420 421 422 423 424 425 426 427 428 
+Parents: 
+
+Node id: 414, dst: 2147483000, state: 0
+Children: 418 419 420 421 422 423 424 425 426 427 428 
+Parents: 
+
+Node id: 415, dst: 2147483000, state: 0
+Children: 418 419 420 421 422 423 424 425 426 427 428 
+Parents: 
+
+Node id: 416, dst: 2147483000, state: 0
+Children: 418 419 420 421 422 423 424 425 426 427 428 
+Parents: 
+
+Node id: 417, dst: 2147483000, state: 0
+Children: 418 419 420 421 422 423 424 425 426 427 428 
+Parents: 
+
+Node id: 418, dst: 2147483000, state: 0
+Children: 429 430 431 432 433 434 435 436 437 438 439 
+Parents: 
+
+Node id: 419, dst: 2147483000, state: 0
+Children: 429 430 431 432 433 434 435 436 437 438 439 
+Parents: 
+
+Node id: 420, dst: 2147483000, state: 0
+Children: 429 430 431 432 433 434 435 436 437 438 439 
+Parents: 
+
+Node id: 421, dst: 2147483000, state: 0
+Children: 429 430 431 432 433 434 435 436 437 438 439 
+Parents: 
+
+Node id: 422, dst: 2147483000, state: 0
+Children: 429 430 431 432 433 434 435 436 437 438 439 
+Parents: 
+
+Node id: 423, dst: 2147483000, state: 0
+Children: 429 430 431 432 433 434 435 436 437 438 439 
+Parents: 
+
+Node id: 424, dst: 2147483000, state: 0
+Children: 429 430 431 432 433 434 435 436 437 438 439 
+Parents: 
+
+Node id: 425, dst: 2147483000, state: 0
+Children: 429 430 431 432 433 434 435 436 437 438 439 
+Parents: 
+
+Node id: 426, dst: 2147483000, state: 0
+Children: 429 430 431 432 433 434 435 436 437 438 439 
+Parents: 
+
+Node id: 427, dst: 2147483000, state: 0
+Children: 429 430 431 432 433 434 435 436 437 438 439 
+Parents: 
+
+Node id: 428, dst: 2147483000, state: 0
+Children: 429 430 431 432 433 434 435 436 437 438 439 
+Parents: 
+
+Node id: 429, dst: 2147483000, state: 0
+Children: 440 441 442 443 444 445 446 447 448 449 450 
+Parents: 
+
+Node id: 430, dst: 2147483000, state: 0
+Children: 440 441 442 443 444 445 446 447 448 449 450 
+Parents: 
+
+Node id: 431, dst: 2147483000, state: 0
+Children: 440 441 442 443 444 445 446 447 448 449 450 
+Parents: 
+
+Node id: 432, dst: 2147483000, state: 0
+Children: 440 441 442 443 444 445 446 447 448 449 450 
+Parents: 
+
+Node id: 433, dst: 2147483000, state: 0
+Children: 440 441 442 443 444 445 446 447 448 449 450 
+Parents: 
+
+Node id: 434, dst: 2147483000, state: 0
+Children: 440 441 442 443 444 445 446 447 448 449 450 
+Parents: 
+
+Node id: 435, dst: 2147483000, state: 0
+Children: 440 441 442 443 444 445 446 447 448 449 450 
+Parents: 
+
+Node id: 436, dst: 2147483000, state: 0
+Children: 440 441 442 443 444 445 446 447 448 449 450 
+Parents: 
+
+Node id: 437, dst: 2147483000, state: 0
+Children: 440 441 442 443 444 445 446 447 448 449 450 
+Parents: 
+
+Node id: 438, dst: 2147483000, state: 0
+Children: 440 441 442 443 444 445 446 447 448 449 450 
+Parents: 
+
+Node id: 439, dst: 2147483000, state: 0
+Children: 440 441 442 443 444 445 446 447 448 449 450 
+Parents: 
+
+Node id: 440, dst: 2147483000, state: 0
+Children: 451 452 453 454 455 456 457 458 459 460 461 
+Parents: 
+
+Node id: 441, dst: 2147483000, state: 0
+Children: 451 452 453 454 455 456 457 458 459 460 461 
+Parents: 
+
+Node id: 442, dst: 2147483000, state: 0
+Children: 451 452 453 454 455 456 457 458 459 460 461 
+Parents: 
+
+Node id: 443, dst: 2147483000, state: 0
+Children: 451 452 453 454 455 456 457 458 459 460 461 
+Parents: 
+
+Node id: 444, dst: 2147483000, state: 0
+Children: 451 452 453 454 455 456 457 458 459 460 461 
+Parents: 
+
+Node id: 445, dst: 2147483000, state: 0
+Children: 451 452 453 454 455 456 457 458 459 460 461 
+Parents: 
+
+Node id: 446, dst: 2147483000, state: 0
+Children: 451 452 453 454 455 456 457 458 459 460 461 
+Parents: 
+
+Node id: 447, dst: 2147483000, state: 0
+Children: 451 452 453 454 455 456 457 458 459 460 461 
+Parents: 
+
+Node id: 448, dst: 2147483000, state: 0
+Children: 451 452 453 454 455 456 457 458 459 460 461 
+Parents: 
+
+Node id: 449, dst: 2147483000, state: 0
+Children: 451 452 453 454 455 456 457 458 459 460 461 
+Parents: 
+
+Node id: 450, dst: 2147483000, state: 0
+Children: 451 452 453 454 455 456 457 458 459 460 461 
+Parents: 
+
+Node id: 451, dst: 2147483000, state: 0
+Children: 462 463 464 465 466 467 468 469 470 471 472 
+Parents: 
+
+Node id: 452, dst: 2147483000, state: 0
+Children: 462 463 464 465 466 467 468 469 470 471 472 
+Parents: 
+
+Node id: 453, dst: 2147483000, state: 0
+Children: 462 463 464 465 466 467 468 469 470 471 472 
+Parents: 
+
+Node id: 454, dst: 2147483000, state: 0
+Children: 462 463 464 465 466 467 468 469 470 471 472 
+Parents: 
+
+Node id: 455, dst: 2147483000, state: 0
+Children: 462 463 464 465 466 467 468 469 470 471 472 
+Parents: 
+
+Node id: 456, dst: 2147483000, state: 0
+Children: 462 463 464 465 466 467 468 469 470 471 472 
+Parents: 
+
+Node id: 457, dst: 2147483000, state: 0
+Children: 462 463 464 465 466 467 468 469 470 471 472 
+Parents: 
+
+Node id: 458, dst: 2147483000, state: 0
+Children: 462 463 464 465 466 467 468 469 470 471 472 
+Parents: 
+
+Node id: 459, dst: 2147483000, state: 0
+Children: 462 463 464 465 466 467 468 469 470 471 472 
+Parents: 
+
+Node id: 460, dst: 2147483000, state: 0
+Children: 462 463 464 465 466 467 468 469 470 471 472 
+Parents: 
+
+Node id: 461, dst: 2147483000, state: 0
+Children: 462 463 464 465 466 467 468 469 470 471 472 
+Parents: 
+
+Node id: 462, dst: 2147483000, state: 0
+Children: 473 474 475 476 477 478 479 480 481 482 483 
+Parents: 
+
+Node id: 463, dst: 2147483000, state: 0
+Children: 473 474 475 476 477 478 479 480 481 482 483 
+Parents: 
+
+Node id: 464, dst: 2147483000, state: 0
+Children: 473 474 475 476 477 478 479 480 481 482 483 
+Parents: 
+
+Node id: 465, dst: 2147483000, state: 0
+Children: 473 474 475 476 477 478 479 480 481 482 483 
+Parents: 
+
+Node id: 466, dst: 2147483000, state: 0
+Children: 473 474 475 476 477 478 479 480 481 482 483 
+Parents: 
+
+Node id: 467, dst: 2147483000, state: 0
+Children: 473 474 475 476 477 478 479 480 481 482 483 
+Parents: 
+
+Node id: 468, dst: 2147483000, state: 0
+Children: 473 474 475 476 477 478 479 480 481 482 483 
+Parents: 
+
+Node id: 469, dst: 2147483000, state: 0
+Children: 473 474 475 476 477 478 479 480 481 482 483 
+Parents: 
+
+Node id: 470, dst: 2147483000, state: 0
+Children: 473 474 475 476 477 478 479 480 481 482 483 
+Parents: 
+
+Node id: 471, dst: 2147483000, state: 0
+Children: 473 474 475 476 477 478 479 480 481 482 483 
+Parents: 
+
+Node id: 472, dst: 2147483000, state: 0
+Children: 473 474 475 476 477 478 479 480 481 482 483 
+Parents: 
+
+Node id: 473, dst: 2147483000, state: 0
+Children: 484 485 486 487 488 489 490 491 492 493 494 
+Parents: 
+
+Node id: 474, dst: 2147483000, state: 0
+Children: 484 485 486 487 488 489 490 491 492 493 494 
+Parents: 
+
+Node id: 475, dst: 2147483000, state: 0
+Children: 484 485 486 487 488 489 490 491 492 493 494 
+Parents: 
+
+Node id: 476, dst: 2147483000, state: 0
+Children: 484 485 486 487 488 489 490 491 492 493 494 
+Parents: 
+
+Node id: 477, dst: 2147483000, state: 0
+Children: 484 485 486 487 488 489 490 491 492 493 494 
+Parents: 
+
+Node id: 478, dst: 2147483000, state: 0
+Children: 484 485 486 487 488 489 490 491 492 493 494 
+Parents: 
+
+Node id: 479, dst: 2147483000, state: 0
+Children: 484 485 486 487 488 489 490 491 492 493 494 
+Parents: 
+
+Node id: 480, dst: 2147483000, state: 0
+Children: 484 485 486 487 488 489 490 491 492 493 494 
+Parents: 
+
+Node id: 481, dst: 2147483000, state: 0
+Children: 484 485 486 487 488 489 490 491 492 493 494 
+Parents: 
+
+Node id: 482, dst: 2147483000, state: 0
+Children: 484 485 486 487 488 489 490 491 492 493 494 
+Parents: 
+
+Node id: 483, dst: 2147483000, state: 0
+Children: 484 485 486 487 488 489 490 491 492 493 494 
+Parents: 
+
+Node id: 484, dst: 2147483000, state: 0
+Children: 495 496 497 498 499 500 501 502 503 504 505 
+Parents: 
+
+Node id: 485, dst: 2147483000, state: 0
+Children: 495 496 497 498 499 500 501 502 503 504 505 
+Parents: 
+
+Node id: 486, dst: 2147483000, state: 0
+Children: 495 496 497 498 499 500 501 502 503 504 505 
+Parents: 
+
+Node id: 487, dst: 2147483000, state: 0
+Children: 495 496 497 498 499 500 501 502 503 504 505 
+Parents: 
+
+Node id: 488, dst: 2147483000, state: 0
+Children: 495 496 497 498 499 500 501 502 503 504 505 
+Parents: 
+
+Node id: 489, dst: 2147483000, state: 0
+Children: 495 496 497 498 499 500 501 502 503 504 505 
+Parents: 
+
+Node id: 490, dst: 2147483000, state: 0
+Children: 495 496 497 498 499 500 501 502 503 504 505 
+Parents: 
+
+Node id: 491, dst: 2147483000, state: 0
+Children: 495 496 497 498 499 500 501 502 503 504 505 
+Parents: 
+
+Node id: 492, dst: 2147483000, state: 0
+Children: 495 496 497 498 499 500 501 502 503 504 505 
+Parents: 
+
+Node id: 493, dst: 2147483000, state: 0
+Children: 495 496 497 498 499 500 501 502 503 504 505 
+Parents: 
+
+Node id: 494, dst: 2147483000, state: 0
+Children: 495 496 497 498 499 500 501 502 503 504 505 
+Parents: 
+
+Node id: 495, dst: 2147483000, state: 0
+Children: 506 507 508 509 510 511 512 513 514 515 516 
+Parents: 
+
+Node id: 496, dst: 2147483000, state: 0
+Children: 506 507 508 509 510 511 512 513 514 515 516 
+Parents: 
+
+Node id: 497, dst: 2147483000, state: 0
+Children: 506 507 508 509 510 511 512 513 514 515 516 
+Parents: 
+
+Node id: 498, dst: 2147483000, state: 0
+Children: 506 507 508 509 510 511 512 513 514 515 516 
+Parents: 
+
+Node id: 499, dst: 2147483000, state: 0
+Children: 506 507 508 509 510 511 512 513 514 515 516 
+Parents: 
+
+Node id: 500, dst: 2147483000, state: 0
+Children: 506 507 508 509 510 511 512 513 514 515 516 
+Parents: 
+
+Node id: 501, dst: 2147483000, state: 0
+Children: 506 507 508 509 510 511 512 513 514 515 516 
+Parents: 
+
+Node id: 502, dst: 2147483000, state: 0
+Children: 506 507 508 509 510 511 512 513 514 515 516 
+Parents: 
+
+Node id: 503, dst: 2147483000, state: 0
+Children: 506 507 508 509 510 511 512 513 514 515 516 
+Parents: 
+
+Node id: 504, dst: 2147483000, state: 0
+Children: 506 507 508 509 510 511 512 513 514 515 516 
+Parents: 
+
+Node id: 505, dst: 2147483000, state: 0
+Children: 506 507 508 509 510 511 512 513 514 515 516 
+Parents: 
+
+Node id: 506, dst: 2147483000, state: 0
+Children: 517 518 519 520 521 522 523 524 525 526 527 
+Parents: 
+
+Node id: 507, dst: 2147483000, state: 0
+Children: 517 518 519 520 521 522 523 524 525 526 527 
+Parents: 
+
+Node id: 508, dst: 2147483000, state: 0
+Children: 517 518 519 520 521 522 523 524 525 526 527 
+Parents: 
+
+Node id: 509, dst: 2147483000, state: 0
+Children: 517 518 519 520 521 522 523 524 525 526 527 
+Parents: 
+
+Node id: 510, dst: 2147483000, state: 0
+Children: 517 518 519 520 521 522 523 524 525 526 527 
+Parents: 
+
+Node id: 511, dst: 2147483000, state: 0
+Children: 517 518 519 520 521 522 523 524 525 526 527 
+Parents: 
+
+Node id: 512, dst: 2147483000, state: 0
+Children: 517 518 519 520 521 522 523 524 525 526 527 
+Parents: 
+
+Node id: 513, dst: 2147483000, state: 0
+Children: 517 518 519 520 521 522 523 524 525 526 527 
+Parents: 
+
+Node id: 514, dst: 2147483000, state: 0
+Children: 517 518 519 520 521 522 523 524 525 526 527 
+Parents: 
+
+Node id: 515, dst: 2147483000, state: 0
+Children: 517 518 519 520 521 522 523 524 525 526 527 
+Parents: 
+
+Node id: 516, dst: 2147483000, state: 0
+Children: 517 518 519 520 521 522 523 524 525 526 527 
+Parents: 
+
+Node id: 517, dst: 2147483000, state: 0
+Children: 528 529 530 531 532 533 534 535 536 537 538 
+Parents: 
+
+Node id: 518, dst: 2147483000, state: 0
+Children: 528 529 530 531 532 533 534 535 536 537 538 
+Parents: 
+
+Node id: 519, dst: 2147483000, state: 0
+Children: 528 529 530 531 532 533 534 535 536 537 538 
+Parents: 
+
+Node id: 520, dst: 2147483000, state: 0
+Children: 528 529 530 531 532 533 534 535 536 537 538 
+Parents: 
+
+Node id: 521, dst: 2147483000, state: 0
+Children: 528 529 530 531 532 533 534 535 536 537 538 
+Parents: 
+
+Node id: 522, dst: 2147483000, state: 0
+Children: 528 529 530 531 532 533 534 535 536 537 538 
+Parents: 
+
+Node id: 523, dst: 2147483000, state: 0
+Children: 528 529 530 531 532 533 534 535 536 537 538 
+Parents: 
+
+Node id: 524, dst: 2147483000, state: 0
+Children: 528 529 530 531 532 533 534 535 536 537 538 
+Parents: 
+
+Node id: 525, dst: 2147483000, state: 0
+Children: 528 529 530 531 532 533 534 535 536 537 538 
+Parents: 
+
+Node id: 526, dst: 2147483000, state: 0
+Children: 528 529 530 531 532 533 534 535 536 537 538 
+Parents: 
+
+Node id: 527, dst: 2147483000, state: 0
+Children: 528 529 530 531 532 533 534 535 536 537 538 
+Parents: 
+
+Node id: 528, dst: 2147483000, state: 0
+Children: 539 540 541 542 543 544 545 546 547 548 549 
+Parents: 
+
+Node id: 529, dst: 2147483000, state: 0
+Children: 539 540 541 542 543 544 545 546 547 548 549 
+Parents: 
+
+Node id: 530, dst: 2147483000, state: 0
+Children: 539 540 541 542 543 544 545 546 547 548 549 
+Parents: 
+
+Node id: 531, dst: 2147483000, state: 0
+Children: 539 540 541 542 543 544 545 546 547 548 549 
+Parents: 
+
+Node id: 532, dst: 2147483000, state: 0
+Children: 539 540 541 542 543 544 545 546 547 548 549 
+Parents: 
+
+Node id: 533, dst: 2147483000, state: 0
+Children: 539 540 541 542 543 544 545 546 547 548 549 
+Parents: 
+
+Node id: 534, dst: 2147483000, state: 0
+Children: 539 540 541 542 543 544 545 546 547 548 549 
+Parents: 
+
+Node id: 535, dst: 2147483000, state: 0
+Children: 539 540 541 542 543 544 545 546 547 548 549 
+Parents: 
+
+Node id: 536, dst: 2147483000, state: 0
+Children: 539 540 541 542 543 544 545 546 547 548 549 
+Parents: 
+
+Node id: 537, dst: 2147483000, state: 0
+Children: 539 540 541 542 543 544 545 546 547 548 549 
+Parents: 
+
+Node id: 538, dst: 2147483000, state: 0
+Children: 539 540 541 542 543 544 545 546 547 548 549 
+Parents: 
+
+Node id: 539, dst: 2147483000, state: 0
+Children: 
+Parents: 
+
+Node id: 540, dst: 2147483000, state: 0
+Children: 
+Parents: 
+
+Node id: 541, dst: 2147483000, state: 0
+Children: 
+Parents: 
+
+Node id: 542, dst: 2147483000, state: 0
+Children: 
+Parents: 
+
+Node id: 543, dst: 2147483000, state: 0
+Children: 
+Parents: 
+
+Node id: 544, dst: 2147483000, state: 0
+Children: 
+Parents: 
+
+Node id: 545, dst: 2147483000, state: 0
+Children: 
+Parents: 
+
+Node id: 546, dst: 2147483000, state: 0
+Children: 
+Parents: 
+
+Node id: 547, dst: 2147483000, state: 0
+Children: 
+Parents: 
+
+Node id: 548, dst: 2147483000, state: 0
+Children: 
+Parents: 
+
+Node id: 549, dst: 2147483000, state: 0
+Children: 
+Parents: 
+
+0
+Projito uzlu: 551, nacteno uzlu: 550
